@@ -8,10 +8,10 @@ Układ analizuje odbite światło dla składowych RGB i porównuje wyniki z wcze
 ## 📸 Podgląd projektu
 
 ### 🔧 Schemat układu
-![Schemat](wykr.png)
+![Schemat](schemat_ukladu.pdf)
 
 ### 🧪 Zbudowany układ
-![Układ](zdjukl.jpeg)
+![Układ](zdj_ukladu.jpeg)
 
 ---
 
