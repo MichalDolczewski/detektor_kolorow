@@ -15,6 +15,13 @@ Układ analizuje odbite światło dla składowych RGB i porównuje wyniki z wcze
 
 ---
 
+## 🎥 Nagranie działania
+
+Poniżej znajduje się krótki film prezentujący działanie układu:
+
+👉 https://www.youtube.com/shorts/8E8dVrAIg4o
+
+
 ## ⚙️ Zasada działania
 
 System działa według następującego algorytmu:
